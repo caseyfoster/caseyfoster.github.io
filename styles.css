@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<html>
+    <div class="site">
+<banner>
+    <div class="bannerimage"></div>
+</banner>
+<nav>
+    <div class="navitems">
+        <div class="navitem"><a href="http://google.com">NavButton1</a></div>
+        <div class="navitem"><a href="http://google.com">NavButton2</a></div>
+        <div class="navitem"><a href="http://google.com">NavButton3</a></div>
+        <div class="navitem"><a href="http://google.com">NavButton4</a></div>
+    </div>
+</nav>
+<body>
+    <div class="container">
+        <div class="fruit a">
+            <h1>H1 Title that about to take off</h1>
+            <h3>H3 TITLE TALKING ABOUT NOTHING IN CAPS</h3>
+            <p>Welcome to the rock</p>
+        </div>
+        <div class="fruit b">
+            <h3>Refrag Links</h3>
+            <ul>
+                <li class="links"><a href="http://refrag.gg" target="_blank">Refrag.gg</a></li>
+                <li class="links"><a href="http://play.refrag.gg" target="_blank">Play.Refrag.gg</a></li>
+                <li class="links"><a href="http://wiki.refrag.gg" target="_blank">Wiki.Refrag.gg</a></li>
+            </ul>
+            <h3>Well that worked well</h3>
+            <p>Ah this is pretty cool what happens if there is a lot of text here where does it go</p>
+        </div>
+        <div class="fruit c">
+            <h3>This is my h3 title</h3>
+            <p>This is me testing grids and getting stuff to go where I want it with images and crap and making sure that my padding is working by wraping this onto a second line</p>
+            <div id="deviceimage"></div>
+        </div>
+        <div class="fruit d">Fruit d</div>
+    </div>
+</body>
+</div>
+</html>
